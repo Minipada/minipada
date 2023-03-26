@@ -1,15 +1,9 @@
 Hello there,
 
-I'm leading the development for many of our stacks at Brisa Robotics. Nowadays, working on systems, backend, frontend and analytics.
+My name is David, I integrate new and established technologies in robotics and IoT, with a proven track record of implementing innovative solutions to complex challenges.
 
-At [Brisa Robotics](https://www.brisa.tech/), we developped Windrose, a suite of tools to make MHE and robots autonomous in days instead of weeks:
-1. An optimized localization and navigation modules connected to your MES/WMS
-2. A KIT to make the vehicle autonomous that can be installed in hours
-3. A reliable and secure operating system
-4. Analytics and alerting available everywhere to predict and understand your efficiency
+At Brisa Robótica, which I co-founded, I led efforts to transform non-autonomous machines into an autonomous fleet, while at Synapticon, I developed software stacks for an autonomous lawnmower and scalable test infrastructure for embedded systems.
 
-The company is in Recife, Brazil 🇧🇷 while I live in Hamburg, Germany 🇩🇪. We already completed installations remotely in Brazil and Europe.
+As a highly adaptable and anti-fragile professional, I thrive in challenging environments and excel at finding creative solutions to complex problems.
 
-Ping be at my email for more material or for a digital coffee.
-
-Cheers!
+Beyond work, I relish immersing in nature and the vibrant Jewish community of [Eimsbüttel](https://www.wikiwand.com/en/Eimsb%C3%BCttel). Hiking in nearby forests, community events, and cooking traditional Moroccan Jewish food bring me great joy. I enjoy practicing languages and sharing these experiences with others, including my Ashkenazi friends. Connecting our diverse backgrounds under the same religion is an amazing way to learn about different cultures while indulging my love of food and language.
