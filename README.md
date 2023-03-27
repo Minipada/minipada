@@ -1,6 +1,6 @@
 Hello there,
 
-My name is [David Bensoussan](https://twitter.com/d__bensoussan) and I'm software engineer from France currently residing in Hamburg, Germany.
+My name is [David Bensoussan](https://twitter.com/d__bensoussan) and I'm a software engineer from France currently residing in Hamburg, Germany.
 
 I love robotics and IoT, exploring new and established technologies in these fields. I have a strong track record of implementing innovative solutions to complex challenges.
 
