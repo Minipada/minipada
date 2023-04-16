@@ -16,3 +16,10 @@ You can find me on:
 * [Twitter as @d__bensoussan](https://twitter.com/d__bensoussan)
 * [GitHub as @minipada (you are here)](https://github.com/minipada)
 * [LinkedIn](https://www.linkedin.com/in/david-bensoussan-715a0b72/)
+
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=minipada&style=for-the-badge">
+</a>
+
+![](https://hit.yhype.me/github/profile?user_id=1220912)
