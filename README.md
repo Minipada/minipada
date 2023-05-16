@@ -8,7 +8,7 @@ At [Brisa Robótica](https://www.linkedin.com/company/11711423), which I co-foun
 
 I thrive in challenging environments and am highly adaptable and anti-fragile. I love finding creative solutions to complex problems and am always eager to take on new challenges.
 
-Beyond work, I relish immersing in nature and the vibrant Jewish community of [Eimsbüttel](https://www.wikiwand.com/en/Eimsb%C3%BCttel). Hiking in nearby forests, community events, and cooking traditional Moroccan Jewish food bring me great joy. I enjoy practicing languages and sharing these experiences with others, including my Ashkenazi friends. Connecting our diverse backgrounds under the same religion is an amazing way to learn about different cultures while indulging my love of food and language.
+Beyond work, I relish immersing in nature and the vibrant Jewish community of [Eimsbüttel](https://www.wikiwand.com/en/Eimsb%C3%BCttel). Hiking in nearby forests, community events, and cooking traditional Moroccan Jewish food bring me great joy. I enjoy practicing languages and sharing these experiences with others. Connecting diverse backgrounds is an amazing way to learn about different cultures while indulging my love of food and language.
 
 You can find me on:
 
